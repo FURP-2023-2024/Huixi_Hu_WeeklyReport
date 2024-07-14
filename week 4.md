@@ -1,4 +1,4 @@
-# Weekly Report
+# Weekly Report --Week 4
 
 ## Project Overview
 This project involves the integration and control of a supercapacitor with a battery to efficiently manage energy storage and supply. The goal is to control the output power to 40W using a supercapacitor and a four-switch bidirectional Buck-Boost topology. The system also includes a DC-DC bidirectional converter for managing the energy flow between the supercapacitor, battery, and load.
